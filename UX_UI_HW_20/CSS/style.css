@@ -1,0 +1,43 @@
+.nav {
+    background-color: black;
+    
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.jumbotron .jumbotron-fluid{
+    background-color: black;
+    
+}
+
+.display-4 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.lead{ 
+    color: whitesmoke;
+    text-align: center;
+}
+
+body{
+    background-color: black
+}
+
+.carousel-first{
+margin: 100px;
+padding: 20px
+
+}
+
+.carousel-second{
+    margin: 100px;
+    padding: 20px
+    
+    }
+
+.methodology{
+    color: whitesmoke;
+}
